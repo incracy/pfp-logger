@@ -12,8 +12,7 @@
     "saveUsernameWithUnix": "true"
 }
 ```
-Make sure to rename settings-example.json to settings.json
-Server and Channel ID are saved as an integer, bool values are stored in a string and directory needs the double backslash "\\"
+Make sure to rename settings-example.json to settings.json. Server and Channel ID are saved as an integer, bool values are stored in a string and directory needs the double backslash "\\"
 #### To run:
 ```
 py main.py
