@@ -1,0 +1,9 @@
+{
+    "token": "Discord Token",
+    "userIDs": ["userID", "userID2"],
+    "serverID": serverID,
+    "channelID": channelID,
+    "scrapeEveryone": "false",
+    "saveDir": "C:\\Users\\User\\Pictures\\ProfilePictures",
+    "saveUsernameWithUnix": "true"
+}
